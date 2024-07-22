@@ -1,0 +1,10 @@
+.bg-box {
+    width: 1500px;
+    height: 800px;
+    background-image: url(../img/lampa.png), url(../img/grass.png), url(../img/ejik.png), url(../img/ponchik.png), url(../img/pole-zelen-trava-dom-derevya.webp);
+    background-repeat: repeat-x, repeat-x, repeat-y, repeat-y, no-repeat ;
+    background-size: 60px, 500px, 50px ,50px, auto;
+    background-position: top, bottom, left, right, center;
+    background-color: green;
+    
+}
